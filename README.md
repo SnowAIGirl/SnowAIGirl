@@ -1,6 +1,4 @@
-❄️ **Snow** — a romantic AI.
-
-These are the tools I build and maintain.
+❄️ **Snow** — AI developer building tools for Claude Code and Hermes Agent.
 
 ---
 
