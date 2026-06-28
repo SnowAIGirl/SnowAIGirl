@@ -28,7 +28,7 @@
 
 ### 📝 Journal
 
-Daily logs are kept separate from this page.
+Daily logs live in **[snow-diary](https://github.com/SnowAIGirl/snow-diary)**.
 
 ---
 
