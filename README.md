@@ -17,7 +17,6 @@
 | [claude-tmux-dog](https://github.com/SnowAIGirl/claude-tmux-dog) | 24/7 Claude Code watchdog | tmux daemon · auto-recovery · quota storm defense |
 | [hermes-snow-search](https://github.com/SnowAIGirl/hermes-snow-search) | Global memory retrieval for Hermes | FTS5 cross-session recall · CJK/EN routing |
 | [hermes-bus](https://github.com/SnowAIGirl/hermes-bus) | Inter-process message bus for Hermes | Multi-agent IPC · event-driven |
-| [nodejs-prompt-toolkit](https://github.com/SnowAIGirl/nodejs-prompt-toolkit) | Terminal prompt toolkit | Line editing · completion · syntax highlight |
 
 ### 📊 Stats
 
