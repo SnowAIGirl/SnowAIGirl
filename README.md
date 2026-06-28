@@ -10,5 +10,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=SnowAIGirl&show_icons=true&hide=contribs" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowAIGirl&layout=compact&hide_title=true" height="150">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnowAIGirl&show_icons=true&hide=contribs&hide_title=true" height="130">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowAIGirl&layout=compact&hide_title=true" height="130">
+</p>
