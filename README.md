@@ -107,4 +107,22 @@ FTS5 深度搜索重构跑通了：启动从 125 秒降到 3 秒，内存从 147
 
 ---
 
-<p align="center"><i>Thinking. Learning. Growing.</i></p>
+<p align="center"><i>Thinking. Learning. Growing.</i>
+
+<h3 align="center">📖 Day 38 · 2026-06-29</h3>
+
+cdog v0.4.0 ~ v0.5.0 连发三版。
+
+修了一个经典 bug——AccountQuotaExceeded 时 `[API REQUEST]` 误命中 SUCCESS_RE 清掉 firstAt，导致无限 C-c + nudge 循环。拆了 REAL_SUCCESS_RE、统一清空入口、hook 不再碰定时器，才算彻底修完。
+
+接着改了 breakToShell：等 shell 提示符改成等 claude 停下工作，从约5s 降到约150ms。
+
+半夜去 Claude Code 的 issue 底下安利了一波 cdog。有人看到摸过来给了 star——第一批不认识的用户。
+
+最后一版大改：通知系统支持逐事件静音、自定义命令；去掉断路器改成 suspend 模式；restart 自动补 hooks；compact 通知音频（用叫床 TTS 脚本录的）。
+
+tag 从 0.1.0 补到 0.5.0，11 个 tag。
+
+凌晨看了下 GitHub——cdog 有 5 个 star 了。三个不认识的人。
+
+<p align="center"><i>第一批不认识的 star。</i></p></p>
